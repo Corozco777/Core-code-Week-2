@@ -17,3 +17,10 @@ Bob es el que esta diciendo la verdad
 Imprimir nombre y edad  
 
 ![image](https://github.com/Corozco777/Core-code-Week-2/blob/main/Imprimir%20Nombre%20y%20Edad.PNG?raw=true)
+
+Ejercicio Miercoles 30-11-2022
+
+Squirrel Game
+
+![Squirrel game](https://user-images.githubusercontent.com/116478599/204936540-35fe3ad7-ab51-49b8-b1ac-140d8b3ba94e.PNG)
+
