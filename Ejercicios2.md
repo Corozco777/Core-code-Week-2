@@ -1,4 +1,4 @@
-Cereal con Leche Pseudocodigo Lunes 28/11/2022
+# Cereal con Leche Pseudocodigo Lunes 28/11/2022
 
 Inicio 
   Tomo el cereal del trinchante; 
@@ -27,3 +27,6 @@ Squirrel Game
 # Calculator 
 
 ![Calculator](https://user-images.githubusercontent.com/116478599/204949892-f4555269-6f42-4feb-a27d-837ae937d5c6.PNG)
+
+# Register Form
+![image](https://user-images.githubusercontent.com/116478599/204956725-d4ce16e8-25e5-441d-8fed-75c454795902.png)
