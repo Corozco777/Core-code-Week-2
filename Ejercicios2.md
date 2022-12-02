@@ -30,3 +30,22 @@ Squirrel Game
 
 # Register Form
 ![image](https://user-images.githubusercontent.com/116478599/204956725-d4ce16e8-25e5-441d-8fed-75c454795902.png)
+
+# Truth tables Jueves 01 / 12/ 2022
+
+T & T = T ✅
+T & F = F  ✅
+F & T = T  ❌
+F & F = F ✅
+T | T = T ✅
+T | F = F ❌
+F | T = T ✅
+F | F = F ✅
+~T = T ❌
+~F = T ✅
+(T & F) | (~F) = T ✅
+(T | F ) & (F | F) = T ❌
+~((T | F ) & (F | F)) & F = T ✅
+~((T | F ) & (F | F)) & T = F ✅
+
+
