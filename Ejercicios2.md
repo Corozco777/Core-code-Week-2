@@ -48,4 +48,18 @@ F | F = F ✅
 ~((T | F ) & (F | F)) & F = T ✅
 ~((T | F ) & (F | F)) & T = F ✅
 
+# Boolean Results
+Algoritmo BooleanResults
+	a <- 5 == 3 // False porque esta intentando comparar si 5 es igual a 3 
+	b <- 4 <> 3 // True porque 4 es diferente a 3 
+	c <- 7 > 7 // False Siete no es mayor que siete 
+	d <- 4 < 4 // False cuatro no es menor que cuatro
+	e <- 100 <= 90 // False 100 no puede ser menor o igual a 90 
+	f <- 40 >= 40 // True Apesar que 40 no es mayor que 40, 40 si es igual 40. Una de las condiciones se cumple. 
+
+FinAlgoritmo
+
+
+
+
 
