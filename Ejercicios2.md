@@ -59,7 +59,20 @@ Algoritmo BooleanResults
 
 FinAlgoritmo
 
+# Calculadora even/odd 
 
+Algoritmo IdentifyOddEvennumbers
+	
+	Imprimir "*** Ejecucion Iniciada ***"
+	Imprimir "Ingrese numero a verificar"
+	Leer x 
+	si x % 2 == 0 Entonces
+		Imprimir " numero " + ConvertirATexto(x) + " es par"
+	SiNo
+		Imprimir " numero" + ConvertirATexto(x) + " es impar"
+	FinSi
+		
+FinAlgoritmo
 
 
 
