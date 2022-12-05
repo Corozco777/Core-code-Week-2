@@ -29,7 +29,24 @@ Squirrel Game
 ![Calculator](https://user-images.githubusercontent.com/116478599/204949892-f4555269-6f42-4feb-a27d-837ae937d5c6.PNG)
 
 # Register Form
-![image](https://user-images.githubusercontent.com/116478599/204956725-d4ce16e8-25e5-441d-8fed-75c454795902.png)
+Algoritmo RegisterForm
+	Imprimir '======= USER FORM ======='
+	Imprimir 'First name'
+	Leer firstName
+	Imprimir 'Last name'
+	Leer lastName
+	Imprimir 'Age'
+	Leer age
+	Imprimir 'Email'
+	Leer email
+	Imprimir 'Address'
+	Leer address
+	Imprimir '======== USER DATA ========'
+	Imprimir "Full name: "+ firstName + " " + lastName
+	Imprimir "Age: "+ age
+	Imprimir "Email: " + email
+	Imprimir "Address: "+ address
+FinAlgoritmo
 
 # Truth tables Jueves 01 / 12/ 2022
 
